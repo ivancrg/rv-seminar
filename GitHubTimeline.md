@@ -17,6 +17,7 @@ Rast GitHuba se nastavlja i predstavlja se sve više novih proizvoda, kao i pobo
 Od kraja 2015. godine do danas, najznačajniju promjenu na GitHubu predstavljaju upravo promjene u određivanju cijena - uvodi se neograničen broj privatnih repozitorija za korisnike koji plaćaju.
 
 ## Izvori
-*https://en.wikipedia.org/wiki/Timeline_of_GitHub
-*https://hubot.github.com/*
+
+*https://en.wikipedia.org/wiki/Timeline_of_GitHub*  
+*https://hubot.github.com/*  
 *https://en.wikipedia.org/wiki/Censorship_of_GitHub*
