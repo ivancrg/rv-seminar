@@ -31,27 +31,54 @@
 ## Pristup repozitorijima
 
 * Projektima na GitHubu se može pristupiti koristeći standardni Git command-line interface i sve ostale Git komande
-* GitHub dopušte pretraživanje javnih repozitorija i neregistriranim korisnicima
+* GitHub dopušta pretraživanje javnih repozitorija i neregistriranim korisnicima
 * GitHub pruža funkcije slične društvenim mrežama \- poput followera, feedova i grafova koji prikazuje kako developeri rade na svojim verzijama
 * Kako bi netko pridonio određenom projektu, prije toga se mora registrirati
 
 
 ## Usluge
 
-1. Markdown i njemu slični formati
+1. **Markdown** i njemu slični formati
 	* Dokumentacija
 	* Automatski stvorena README datoteka
-2. Praćenje problema (issue tracking)
+2. **Praćenje problema** (issue tracking)
 	* Uključuje zahtjeve za feature, oznake...
-3. Wikis
-4. Pull requests
+3. **Wikis**
+4. **Pull requests**
 	* Sadrže pregled koda i komentare
-5. Povijest commitova
-6. Grafovi o suradnicima, commitovima, članovima...
-7. Gist
+5. **Povijest commitova**
+6. **Grafovi o suradnicima, commitovima, članovima...**
+7. **Gist**
 	* Dijeljenje dijelova kodova i ostalih informacija s drugima (kao GitHub za dijelove koda i međuspremnik)
 8. ...
+
+## Cjenik
+* **Individualni korisnici:**
+	1. **0$ mjesečno** - neograničen broj privatnih i javnih repozitorija, issues, bug tracking, project management
+	2. **7$ mjesečno** - neograničen broj suradnika (naspram 3 kod besplatnog računa), napredni alati
+* **Timovi:**
+	1. **9$ mjesečno po korisniku** - neograničen broj korisnika, privatnih i javnih repozitorija, team access kontrole, upravljanje korisnicima i projektom...
+* **Enterprise:**
+	1. **21$ mjesečno po korisniku** - sve mogućnosti uključene u "Tim" + pojednostavljeno upravljanje računima, 99.95% uptime SLA (najveće vrijeme nedostupnosti po godini - 4h 22m 58.5s, po danu - 43.2s)...
+
+## Fun facts o GitHubu
+
+* GitHub broji oko **800** zaposlenika
+* Registrirano je više od **31 milijuna** korisnika
+* GitHub hosta preko **100 milijuna** repozitorija
+* Mjesečno GitHubu pristupi preko **30 milijuna posjetilaca** od kojih je 70% locirano izvan SAD-a, a 36% unutar Europe
+* GitHubov text editor Atom je preuzet više od **750 tisuća** puta
+* **7500000000$** - iznos za koji je Microsoft preuzeo GitHub
+* **Linus Torwalds** - objavio izvorni kod Linux kernela sa svom dokumentacijom na GitHubu te na njemu redovito radi
+* Maskota GitHuba je **mačka s 5 ruku nalik na hobotnicu**
+* Projekti GitHuba su napisani u **337 različitih programskih** jezika od kojih su najpopularniji JavaScript, Python i Java
+* Preko **500 tisuća studenata** uče, a preko **5300 predavača** predaje na GitHubu - kalifornijsko sveučilište Berkley ima najviše GitHub računa - njih 8500 (za usporedbu - na cijelom RITEH-u studira oko 2000 studenata)
+
 ## Izvori
 
 * *https://en.wikipedia.org/wiki/GitHub*
-
+* *https://expandedramblings.com/index.php/github-statistics/*
+* *https://www.rankred.com/facts-and-statistics-about-github/*
+* *http://www.riteh.uniri.hr/o-fakultetu/*
+* *https://github.com/pricing*
+* *https://uptime.is/*
