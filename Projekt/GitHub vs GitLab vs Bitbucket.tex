@@ -4,6 +4,7 @@
 \usepackage{multicol}
 \usepackage{multirow}
 \usepackage{graphicx}
+\usepackage{hyperref}
 \setbeamertemplate{footline}[frame number]
 \setbeamertemplate{caption}[numbered]
 \usetheme{Frankfurt}
@@ -462,11 +463,91 @@
 	\end{figure}
 \end{frame}
 
+%-------------------------------------------------------
 
 \section{GitHub vs GitLab vs Bitbucket}
-
 \begin{frame}
-	\frametitle{gh vs gl vs bb}
+	\frametitle{GitHub vs GitLab vs Bitbucket}
+	\framesubtitle{Razlike}
+	\pause
+	\setlength{\leftmargini}{0in}
+	\begin{itemize}
+		\item Koriste različite izvore unosa repozitorija:
+		\begin{enumerate}
+			\item \textbf{GitHub}:\pause Git, SVN, HG, TFS
+			\item \textbf{BitBucket}:\pause Git, SVN, HG, CodePlex, Google Code 
+			\item \textbf{GitLab}:\pause Git, drugi servisi: GitHub, Bitbucket, Google Code
+		\end{enumerate}
+	\end{itemize}
+	\pause
+	\begin{figure}
+		\includegraphics
+		[width = 0.5\linewidth]
+		{slike/GitLab-vs-GitHub-vs-Bitbucket.jpg}
+	\end{figure}
 \end{frame}
 
+\begin{frame}[t]
+	\frametitle{GitHub vs GitLab vs Bitbucket}
+	\framesubtitle{Razlike}
+	\pause
+	\begin{table}
+		\footnotesize
+		\begin{center}
+		\caption{Razlike}
+		\begin{tabular}{|p{2cm}||p{3cm}|p{3cm}|}
+			\hline
+			 & Osnovano & Open source\\
+			\hline
+			GitHub& 2008. & NE \\
+			\hline
+			GitLab & 2008. Mercurial projekti; 2010./11. git hosting & DA \\
+			\hline
+			Bitbucket & 2012. pokrenut; 2014. korporacija & otključano kupnjom verzije \\
+			\hline
+		\end{tabular}
+		\end{center}
+	\end{table}
+\end{frame}
+
+\begin{frame}[t]
+	\frametitle{GitHub vs GitLab vs Bitbucket}
+	\framesubtitle{Sličnosti}
+	\setlength{\leftmargini}{0in}
+	\begin{itemize}
+		\begin{overprint}
+			\onslide<2> \item Lagano postavljanje
+			\onslide<3> 
+			\item Lagano postavljanje 
+			\item Pull request i Code review
+			\onslide<4>
+			\item Lagano postavljanje
+			\item Pull request i Code review
+			\item Forks/clones repozitorija
+			\onslide<5>
+			\item Lagano postavljanje 
+			\item Pull request i Code review
+			\item Forks/clones repozitorija
+			\item Integracija programera treće strane (3rd party developers)
+			\onslide<6>
+			\item Lagano postavljanje
+			\item Pull request i Code review
+			\item Forks/clones repozitorija
+			\item Integracija programera treće strane (3rd party developers)
+			\item Snippets, Bug tracking
+		\end{overprint}
+	\end{itemize}
+\end{frame}
+
+%-------------------------------------------------------
+
+\section{Literatura}
+
+\begin{frame}
+	[allowframebreaks]
+	\frametitle{Literatura}
+	\nocite{*}
+	\bibliographystyle{plainurl}
+	\bibliography{Literatura}
+\end{frame}
 \end{document}
