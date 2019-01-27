@@ -11,5 +11,7 @@ Seminar kolegija Računalne vještine na temu GitHub vs. GitLab vs. Bitbucket
 
 ## Raspodjela bodova unutar tima
 
-* 1/3 ukupnih bodova svakom članu tima
+* Ivan Rubinić - 40% bodova
+* Borna Sila - 20% bodova
+* Mateo Srića - 40% bodova
 
